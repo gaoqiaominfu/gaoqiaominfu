@@ -1,10 +1,21 @@
-- 👋 Hi, I’m @gaoqiaominfu
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# Way-Kwok Chu
 
-<!---
-gaoqiaominfu/gaoqiaominfu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 关于我
+
+嗨，我是一位生活在数字世界中的85后男青年，热爱探索新事物。我喜欢观看电影、美剧，沉迷于互联网的世界。作为一位Google的忠实脑残粉，我总是追逐科技的最新动态。
+
+## 我的立场
+
+- 自由派但略带保守倾向，我看待问题时注重个体自由和社会稳定的平衡。
+- 无神论者，我通过理性思考和科学观点来对待生活中的各种问题。
+- 新自由主义者，我支持市场经济和个体创新，相信自由市场是推动社会发展的引擎。
+
+## 兴趣爱好
+
+除了技术和互联网，我还对电影和美剧情有独钟。喜欢追逐那些让人眼前一亮的新奇事物，从中汲取灵感和乐趣。
+
+## 联系我
+
+- 📧 邮箱：gaoqiaominfu@gmail.com
+- 🐦 Twitter：[我的 Twitter](https://twitter.com/Chuwaikok))
+- 💼 LinkedIn：[我的 LinkedIn](https://www.linkedin.com/in/伟国-朱-a71705178/)
