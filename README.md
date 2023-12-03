@@ -17,5 +17,5 @@
 ## 联系我
 
 - 📧 邮箱：gaoqiaominfu@gmail.com
-- 🐦 Twitter：[我的 Twitter](https://twitter.com/Chuwaikok))
+- 🐦 Twitter：[我的 Twitter](https://twitter.com/Chuwaikok)
 - 💼 LinkedIn：[我的 LinkedIn](https://www.linkedin.com/in/伟国-朱-a71705178/)
